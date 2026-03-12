@@ -9,6 +9,9 @@ SQL analysis of Brazilian e-commerce sales, customer behavior, and product perfo
 - **products**: Product metadata
 - **order_payments**: Payment information
 
+## 🔗 Dataset Link:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 ## 🔍 Analysis Includes
 ✅ Total revenue and monthly trends
 ✅ Product performance (sales volume & revenue)
